@@ -6,6 +6,8 @@ Moreover, I don't have time to fix the selectbox that allows you to choose the B
 
 This is the first part of my project about fuels; the second part I will include CVaR, stress test, and backtest.
 
+Note: Because of the COVID-19 pandemic, some Brazilian states did not have data collection, especially september/2020 (all collections of prices in all states were suspended). Pará state did not have price collection for diesel in some months in 2020 as well. In Amapá, ethanol price collection was also suspended in some months during 2020. In this case, we are working with price returns, and the lack of prices in some states during some months can harm the analysis. There are some ways to fix it, but it is not the goal in this project.
+
 
 <img src="images1201/projeto 12 parte 1.png" width="900">
 
